@@ -1,0 +1,33 @@
+body{
+    background-color: #000000d3;
+}
+
+.container{
+
+   width: 80%;
+   margin: auto;
+
+}
+h1{
+text-align: center;
+}
+
+.img_corpo{
+   width: 60%;
+}
+
+figure{
+    text-align: center;
+}
+
+.img_topo{
+    width: 100%;  
+}
+
+p{
+    font-size: 1.6em;
+    color: #babcc4ea;
+    font-weight: bold;
+    text-indent: 60px;
+    text-align: justify;
+}
